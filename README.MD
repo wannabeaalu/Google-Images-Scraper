@@ -1,7 +1,3 @@
-Got it! Here's the cleaned-up, human-friendly README without the code box so you can directly copy-paste it into your README.md file:
-
----
-
 # Outfit Image Scraper (Google Images)
 
 This is a simple Python script that helps you download outfit images (like formal and casual clothes) from Google Images using Selenium.
@@ -69,5 +65,3 @@ Each folder will contain `.jpg` images you scraped.
 **Note:** This script is for learning or personal use only. Google might limit scraping if overused, so use it reasonably.
 
 ---
-
-Let me know if you want a similar style README for your other projects too!
